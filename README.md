@@ -111,6 +111,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference servers: files, git, databases, web search, and more.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server. Issues, PRs, code, and Actions as agent tool calls.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
+- [PlaceCall](https://voygr.tech/placecall/) - Hosted MCP server and API that gives agents a phone: it calls US businesses (bookings, appointments, quotes), gets through phone menus and holds, and returns the outcome and transcript. Closed-source service; 250 free calls with each new API key, then paid per successful call.
 
 ## Voice and Audio
 
