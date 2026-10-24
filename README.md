@@ -52,6 +52,7 @@ Libraries for building agents with tools, memory, and multi-step workflows.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Lightweight library for teams of agents with roles, tasks, and delegation.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
 - [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
+- [System One API](https://github.com/ziyu/system-one-sdk) - Unified multi-provider AI API and open SDK (`@system-one-ai/core`) for routing LLM/image calls in agents and apps.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
 
 ## Running LLMs Locally
