@@ -53,6 +53,7 @@ Libraries for building agents with tools, memory, and multi-step workflows.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
 - [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
+- [System One API](https://system-one.dev/en/api) - Unified AI API / model routing gateway with a TypeScript SDK (https://github.com/ziyu/system-one-sdk, stars≈2). Free tier.
 
 ## Running LLMs Locally
 
@@ -133,6 +134,7 @@ Speech to text, text to speech, and everything between.
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Image generation focused on simplicity. Prompt in, good image out, no parameter fiddling.
 
 - [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업급 만화 리더로, 제품이 지원하는 모든 번역 언어를 제공합니다. 개인은 만화를 일괄 번역하고 번역을 맞춤 설정하며, 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 작업합니다. API를 개인 작업 흐름에 연결할 수 있으며, 일일 체크인 무료 크레딧과 유료 요금제를 제공합니다.
+- [artgen](https://artgen.net/en/tools/image-to-pixel-art) - Free image-to-pixel-art converter with even grid, limited palettes, and optional dithering.
 
 ## Workflow Automation
 
