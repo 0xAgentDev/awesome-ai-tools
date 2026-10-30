@@ -111,6 +111,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference servers: files, git, databases, web search, and more.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server. Issues, PRs, code, and Actions as agent tool calls.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
+- [CurlShot](https://curlshot.com/tools/screenshot-tool-for-ai-agents) - Hosted MCP server (Streamable HTTP) for website screenshots. Agents call `take_screenshot` to capture a web page in a real browser; works with Claude Code, Cursor and VS Code. Closed-source service; free plan of 100 screenshots/month, paid from $19/month.
 
 ## Voice and Audio
 
