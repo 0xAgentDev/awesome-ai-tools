@@ -111,6 +111,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [MCP Servers](https://github.com/modelcontextprotocol/servers) - The official collection of reference servers: files, git, databases, web search, and more.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub's official MCP server. Issues, PRs, code, and Actions as agent tool calls.
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
+- [agent-qa](https://vostride.com) - MCP server and CLI for web/mobile QA with memidex persistent memory, validated self-improvement, and reviewable evidence. Free local package; model fees extra.
 
 ## Voice and Audio
 
