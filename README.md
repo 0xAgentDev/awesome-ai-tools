@@ -127,6 +127,7 @@ Speech to text, text to speech, and everything between.
 
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card.
 - [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free.
+- [Dance AI Generator](https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=0xAgentDev_awesome-ai-tools) - Turn one photo of a person or pet into a 6-second 9:16 AI dance video; free photo check, videos one-time from $4.90, no subscription.
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text-to-video and image-to-video generator; free trial; not affiliated with xAI/X.
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
 - [Bad Times AI](https://badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
