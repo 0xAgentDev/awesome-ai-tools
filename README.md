@@ -73,6 +73,7 @@ Give models access to your documents instead of hoping they memorized them.
 - [Pathway](https://github.com/pathwaycom/pathway) - Live data RAG with real-time streaming, for agents that need up-to-the-second knowledge.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Turn any website into clean markdown or structured data. The fastest way to feed the web into a RAG pipeline.
 - [Exa](https://exa.ai) - Search API built for AI. Semantic search over the web with clean results made for retrieval, not humans.
+- [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that stress-tests ideas by seeking evidence that could overturn a thesis before you commit. Daily reading, filings research, change radar.
 
 ## Vector Databases
 
