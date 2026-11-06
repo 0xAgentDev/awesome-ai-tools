@@ -45,6 +45,8 @@ Editors with AI built into the editing experience, not bolted on.
 - [Cursor](https://cursor.com) - AI-native code editor (VS Code fork) with agent mode for multi-file work. The most widely adopted one in 2026.
 - [Windsurf](https://windsurf.com) - AI IDE with an agent that tracks your actions and codebase context as you work.
 - [Zed](https://github.com/zed-industries/zed) - Fast multiplayer code editor in Rust, with a built-in agent panel that also hosts external agents.
+- [Continue](https://github.com/continuedev/continue) - Open source AI assistant for VS Code and JetBrains. Free, Apache-2.0.
+- [ThinkRail](https://github.com/JetBrains/thinkrail) - JetBrains' free open source agentic IDE. Runs tasks in isolated git worktrees. Free, Apache-2.0.
 
 ## Agent Frameworks
 
@@ -90,6 +92,7 @@ Where the embeddings live.
 - [Chroma](https://github.com/chroma-core/chroma) - The simple one. Embeddings database that feels like a Python dict; great for prototypes.
 - [Weaviate](https://github.com/weaviate/weaviate) - Vector DB with hybrid search and GraphQL. Solid pick when you outgrow Chroma.
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector DB on top of Lance columnar format. No infra to run.
+- [pgvector](https://github.com/pgvector/pgvector) - Vector search as a Postgres extension. Free, open source.
 
 ## Agent Memory
 
@@ -135,6 +138,7 @@ Speech to text, text to speech, and everything between.
 - [Piper](https://github.com/rhasspy/piper) - Fast local neural text to speech. Runs on a Raspberry Pi, voices are small downloads.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text to speech library with voice cloning. The open source toolkit for custom voices.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - Open source, fully local ElevenLabs alternative: voice cloning, dubbing, transcription, audiobooks.
+- [Kokoro](https://github.com/hexgrad/kokoro) - Small open source text-to-speech model that runs locally on CPU. Free, Apache-2.0.
 
 ## Image and Video
 
@@ -157,6 +161,7 @@ For agents that need to run on a schedule or react to events.
 - [Dify](https://github.com/langgenius/dify) - Full-stack platform for building LLM apps with agent workflow orchestration.
 - [Langflow](https://github.com/langflow-ai/langflow) - Drag-and-drop builder for LangChain agents and flows.
 - [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI agent that lives on your device and does real work: messages, calendar, browser, cron jobs.
+- [Windmill](https://github.com/windmill-labs/windmill) - Code-first automation and internal apps, self-hostable. Free, open source.
 
 ## Web Search and Scraping for Agents
 
