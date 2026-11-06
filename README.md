@@ -34,6 +34,9 @@ Terminal-first agents that read your repo, edit files, and run commands.
 - [Pi](https://github.com/earendil-works/pi) - Toolkit with a unified multi-provider LLM API, an agent runtime, a terminal UI, and an extensible coding agent CLI.
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek's official plugin-based agent harness, run through npx with a web UI.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Self-hosted control center that runs OpenHands or other agents locally, in Docker, or in the cloud.
+- [Agent Skills](https://github.com/anthropics/skills) - Anthropic's public skills repo. Agents load skills on demand to get better at specific tasks. Free.
+- [Goose](https://github.com/aaif-goose/goose) - Block's open source terminal coding agent. Bring your own key. Free, Apache-2.0.
+- [PR Agent](https://github.com/The-PR-Agent/pr-agent) - Open source AI reviewer for pull requests. Free, MIT.
 
 ## AI Code Editors
 
@@ -42,6 +45,8 @@ Editors with AI built into the editing experience, not bolted on.
 - [Cursor](https://cursor.com) - AI-native code editor (VS Code fork) with agent mode for multi-file work. The most widely adopted one in 2026.
 - [Windsurf](https://windsurf.com) - AI IDE with an agent that tracks your actions and codebase context as you work.
 - [Zed](https://github.com/zed-industries/zed) - Fast multiplayer code editor in Rust, with a built-in agent panel that also hosts external agents.
+- [Continue](https://github.com/continuedev/continue) - Open source AI assistant for VS Code and JetBrains. Free, Apache-2.0.
+- [ThinkRail](https://github.com/JetBrains/thinkrail) - JetBrains' free open source agentic IDE. Runs tasks in isolated git worktrees. Free, Apache-2.0.
 
 ## Agent Frameworks
 
@@ -53,6 +58,8 @@ Libraries for building agents with tools, memory, and multi-step workflows.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
 - [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
+- [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework for coding agents. Free, open source, MIT.
+- [Google ADK](https://github.com/google/adk-python) - Google's code-first Python toolkit for multi-agent systems. Free, open source, Apache-2.0.
 
 ## Running LLMs Locally
 
@@ -64,6 +71,7 @@ Run open models on your own hardware. No API bills, no data leaving the machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted ChatGPT-style UI for local and remote models. Works offline.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving engine for LLMs. What you reach for when Ollama is not fast enough.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Gradio-based UI for running lots of model backends with extensions.
+- [SGLang](https://github.com/sgl-project/sglang) - High-throughput LLM serving with RadixAttention caching. Free, open source, Apache-2.0.
 
 ## RAG and Knowledge
 
@@ -74,6 +82,7 @@ Give models access to your documents instead of hoping they memorized them.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Turn any website into clean markdown or structured data. The fastest way to feed the web into a RAG pipeline.
 - [Exa](https://exa.ai) - Search API built for AI. Semantic search over the web with clean results made for retrieval, not humans.
 - [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that stress-tests ideas by seeking evidence that could overturn a thesis before you commit. Daily reading, filings research, change radar.
+- [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for RAG: ingest, index, and query your documents. Free, open source, MIT.
 
 ## Vector Databases
 
@@ -83,6 +92,7 @@ Where the embeddings live.
 - [Chroma](https://github.com/chroma-core/chroma) - The simple one. Embeddings database that feels like a Python dict; great for prototypes.
 - [Weaviate](https://github.com/weaviate/weaviate) - Vector DB with hybrid search and GraphQL. Solid pick when you outgrow Chroma.
 - [LanceDB](https://github.com/lancedb/lancedb) - Serverless vector DB on top of Lance columnar format. No infra to run.
+- [pgvector](https://github.com/pgvector/pgvector) - Vector search as a Postgres extension. Free, open source.
 
 ## Agent Memory
 
@@ -92,6 +102,8 @@ Agents that remember things across sessions beat agents that start blank every t
 - [Letta](https://github.com/letta-ai/letta) - Framework for stateful agents with long-term memory (formerly MemGPT). The research project that started the agent-memory conversation.
 - [Zep](https://github.com/getzep/zep) - Memory server for agents with temporal knowledge graphs. Knows not just what happened, but when.
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Fast memory engine and API built for the AI era.
+- [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent context across agent sessions. Free, open source, Apache-2.0.
+- [Graphiti](https://github.com/getzep/graphiti) - Real-time knowledge graphs for agents. Free, open source, Apache-2.0.
 
 ## Evals and Observability
 
@@ -103,6 +115,8 @@ If you cannot measure it, you cannot tell whether the new prompt helped or hurt.
 - [Ragas](https://github.com/explodinggradients/ragas) - Metrics for RAG pipelines: faithfulness, answer relevance, context precision. The standard RAG eval library.
 - [DeepEval](https://github.com/confident-ai/deepeval) - LLM eval framework with pytest-style tests for agents and RAG.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open source AI observability from Arize. Trace and troubleshoot LLM apps locally.
+- [Promptfoo](https://github.com/promptfoo/promptfoo) - Open source evals for prompts, agents, and RAG, with red-teaming. Free, MIT.
+- [security-audit-skill](https://github.com/cloudflare/security-audit-skill) - Coding-agent skill for multi-phase security audits. Free, open source, MIT.
 
 ## MCP
 
@@ -114,6 +128,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
 - [Aident Loadout](https://aident.ai) - Hosted remote MCP server (streamable HTTP, OAuth) that gives coding agents 400+ Skills and reusable app connections through one setup; credentials stay in Vault and every action is logged in Audit. Free pay-as-you-go plan.
 - [agent-qa](https://vostride.com) - MCP server and CLI for web/mobile QA with memidex persistent memory, validated self-improvement, and reviewable evidence. Free local package; model fees extra.
+- [Context7](https://github.com/upstash/context7) - Gives coding agents up-to-date, version-specific library docs. Free API key, MIT.
 
 ## Voice and Audio
 
@@ -123,6 +138,7 @@ Speech to text, text to speech, and everything between.
 - [Piper](https://github.com/rhasspy/piper) - Fast local neural text to speech. Runs on a Raspberry Pi, voices are small downloads.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text to speech library with voice cloning. The open source toolkit for custom voices.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - Open source, fully local ElevenLabs alternative: voice cloning, dubbing, transcription, audiobooks.
+- [Kokoro](https://github.com/hexgrad/kokoro) - Small open source text-to-speech model that runs locally on CPU. Free, Apache-2.0.
 
 ## Image and Video
 
@@ -145,3 +161,12 @@ For agents that need to run on a schedule or react to events.
 - [Dify](https://github.com/langgenius/dify) - Full-stack platform for building LLM apps with agent workflow orchestration.
 - [Langflow](https://github.com/langflow-ai/langflow) - Drag-and-drop builder for LangChain agents and flows.
 - [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI agent that lives on your device and does real work: messages, calendar, browser, cron jobs.
+- [Windmill](https://github.com/windmill-labs/windmill) - Code-first automation and internal apps, self-hostable. Free, open source.
+
+## Web Search and Scraping for Agents
+
+Search and scraping built for agents, not browsers.
+
+- [Tavily](https://tavily.com) - Search API built for agents. Clean results made for retrieval, with a free tier of 1,000 credits a month and no card required.
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open source crawler for agents. Turns pages into LLM-ready markdown. Free, Apache-2.0.
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - Python scraping framework, from single requests to full crawls. Free, open source, BSD-3.
