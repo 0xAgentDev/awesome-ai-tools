@@ -56,6 +56,8 @@ Libraries for building agents with tools, memory, and multi-step workflows.
 - [AutoGen](https://github.com/microsoft/autogen) - Microsoft's framework for multi-agent conversation. Agents talk to each other and to humans to get work done.
 - [SmolAgents](https://github.com/huggingface/smolagents) - Hugging Face's minimal agent library. Code-first agents in a few lines.
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework from the Pydantic team. Structured outputs without the guessing.
+- [Superpowers](https://github.com/obra/superpowers) - Agentic skills framework for coding agents. Free, open source, MIT.
+- [Google ADK](https://github.com/google/adk-python) - Google's code-first Python toolkit for multi-agent systems. Free, open source, Apache-2.0.
 
 ## Running LLMs Locally
 
@@ -77,6 +79,7 @@ Give models access to your documents instead of hoping they memorized them.
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - Turn any website into clean markdown or structured data. The fastest way to feed the web into a RAG pipeline.
 - [Exa](https://exa.ai) - Search API built for AI. Semantic search over the web with clean results made for retrieval, not humans.
 - [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that stress-tests ideas by seeking evidence that could overturn a thesis before you commit. Daily reading, filings research, change radar.
+- [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for RAG: ingest, index, and query your documents. Free, open source, MIT.
 
 ## Vector Databases
 
