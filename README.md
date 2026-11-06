@@ -92,6 +92,8 @@ Agents that remember things across sessions beat agents that start blank every t
 - [Letta](https://github.com/letta-ai/letta) - Framework for stateful agents with long-term memory (formerly MemGPT). The research project that started the agent-memory conversation.
 - [Zep](https://github.com/getzep/zep) - Memory server for agents with temporal knowledge graphs. Knows not just what happened, but when.
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Fast memory engine and API built for the AI era.
+- [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent context across agent sessions. Free, open source, Apache-2.0.
+- [Graphiti](https://github.com/getzep/graphiti) - Real-time knowledge graphs for agents. Free, open source, Apache-2.0.
 
 ## Evals and Observability
 
