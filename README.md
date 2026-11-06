@@ -34,6 +34,9 @@ Terminal-first agents that read your repo, edit files, and run commands.
 - [Pi](https://github.com/earendil-works/pi) - Toolkit with a unified multi-provider LLM API, an agent runtime, a terminal UI, and an extensible coding agent CLI.
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek's official plugin-based agent harness, run through npx with a web UI.
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Self-hosted control center that runs OpenHands or other agents locally, in Docker, or in the cloud.
+- [Agent Skills](https://github.com/anthropics/skills) - Anthropic's public skills repo. Agents load skills on demand to get better at specific tasks. Free.
+- [Goose](https://github.com/aaif-goose/goose) - Block's open source terminal coding agent. Bring your own key. Free, Apache-2.0.
+- [PR Agent](https://github.com/The-PR-Agent/pr-agent) - Open source AI reviewer for pull requests. Free, MIT.
 
 ## AI Code Editors
 
