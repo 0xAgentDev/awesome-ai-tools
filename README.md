@@ -69,6 +69,7 @@ Run open models on your own hardware. No API bills, no data leaving the machine.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Self-hosted ChatGPT-style UI for local and remote models. Works offline.
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput serving engine for LLMs. What you reach for when Ollama is not fast enough.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Gradio-based UI for running lots of model backends with extensions.
+- [SGLang](https://github.com/sgl-project/sglang) - High-throughput LLM serving with RadixAttention caching. Free, open source, Apache-2.0.
 
 ## RAG and Knowledge
 
@@ -111,6 +112,8 @@ If you cannot measure it, you cannot tell whether the new prompt helped or hurt.
 - [Ragas](https://github.com/explodinggradients/ragas) - Metrics for RAG pipelines: faithfulness, answer relevance, context precision. The standard RAG eval library.
 - [DeepEval](https://github.com/confident-ai/deepeval) - LLM eval framework with pytest-style tests for agents and RAG.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open source AI observability from Arize. Trace and troubleshoot LLM apps locally.
+- [Promptfoo](https://github.com/promptfoo/promptfoo) - Open source evals for prompts, agents, and RAG, with red-teaming. Free, MIT.
+- [security-audit-skill](https://github.com/cloudflare/security-audit-skill) - Coding-agent skill for multi-phase security audits. Free, open source, MIT.
 
 ## MCP
 
@@ -122,6 +125,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [FastMCP](https://github.com/jlowin/fastmcp) - The fast way to build MCP servers in Python. Decorators in, working server out.
 - [Aident Loadout](https://aident.ai) - Hosted remote MCP server (streamable HTTP, OAuth) that gives coding agents 400+ Skills and reusable app connections through one setup; credentials stay in Vault and every action is logged in Audit. Free pay-as-you-go plan.
 - [agent-qa](https://vostride.com) - MCP server and CLI for web/mobile QA with memidex persistent memory, validated self-improvement, and reviewable evidence. Free local package; model fees extra.
+- [Context7](https://github.com/upstash/context7) - Gives coding agents up-to-date, version-specific library docs. Free API key, MIT.
 
 ## Voice and Audio
 
