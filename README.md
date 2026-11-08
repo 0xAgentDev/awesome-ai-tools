@@ -83,6 +83,7 @@ Give models access to your documents instead of hoping they memorized them.
 - [Exa](https://exa.ai) - Search API built for AI. Semantic search over the web with clean results made for retrieval, not humans.
 - [DisconfirmAI](https://disconfirmai.com/en) - Investment research platform that stress-tests ideas by seeking evidence that could overturn a thesis before you commit. Daily reading, filings research, change radar.
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for RAG: ingest, index, and query your documents. Free, open source, MIT.
+- [ORANO](https://oranoai.com) - Turns saved videos and articles into searchable summaries and step-by-step plans. Freemium. (Author-affiliated.)
 
 ## Vector Databases
 
