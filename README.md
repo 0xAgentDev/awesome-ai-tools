@@ -104,7 +104,7 @@ Agents that remember things across sessions beat agents that start blank every t
 - [Supermemory](https://github.com/supermemoryai/supermemory) - Fast memory engine and API built for the AI era.
 - [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent context across agent sessions. Free, open source, Apache-2.0.
 - [Graphiti](https://github.com/getzep/graphiti) - Real-time knowledge graphs for agents. Free, open source, Apache-2.0.
-- [Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego) - MIT template that keeps your AI rules, profile and journals as plain Markdown in your own Git repo. A hosted remote MCP connector (https://cloudalterego.cafeboon.com) gives every AI chat the same files. (Author-affiliated.)
+- [Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego) - MIT template that keeps your AI rules, profile and journals as plain Markdown in your own Git repo. A hosted remote MCP connector (https://cloudalterego.cafeboon.com/mcp) gives every AI chat the same files. (Author-affiliated.)
 
 ## Evals and Observability
 
