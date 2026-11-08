@@ -139,6 +139,7 @@ Speech to text, text to speech, and everything between.
 - [Coqui TTS](https://github.com/coqui-ai/TTS) - Text to speech library with voice cloning. The open source toolkit for custom voices.
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - Open source, fully local ElevenLabs alternative: voice cloning, dubbing, transcription, audiobooks.
 - [Kokoro](https://github.com/hexgrad/kokoro) - Small open source text-to-speech model that runs locally on CPU. Free, Apache-2.0.
+- [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes videos, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Freemium. (Author-affiliated.)
 
 ## Image and Video
 
