@@ -129,6 +129,7 @@ Model Context Protocol: the open standard for giving agents tools. One protocol,
 - [Aident Loadout](https://aident.ai) - Hosted remote MCP server (streamable HTTP, OAuth) that gives coding agents 400+ Skills and reusable app connections through one setup; credentials stay in Vault and every action is logged in Audit. Free pay-as-you-go plan.
 - [agent-qa](https://vostride.com) - MCP server and CLI for web/mobile QA with memidex persistent memory, validated self-improvement, and reviewable evidence. Free local package; model fees extra.
 - [Context7](https://github.com/upstash/context7) - Gives coding agents up-to-date, version-specific library docs. Free API key, MIT.
+- [Vaneform](https://vaneform.com/) - Hosted MCP server and free website traffic checker: look up monthly visits and traffic trends for any domain from an AI assistant. Free basic lookups.
 
 ## Voice and Audio
 
