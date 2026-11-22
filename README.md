@@ -142,7 +142,7 @@ Speech to text, text to speech, and everything between.
 
 ## Image and Video
 
-- [RawMind](https://rawmind.app) - Free uncensored neural network with reasoning, text, image, and video generation.
+- [RawMind](https://rawmind.app) - AI chat with reasoning, search, and image/video generation; no content filtering.
 
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card.
 - [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free.
