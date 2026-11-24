@@ -170,3 +170,4 @@ Search and scraping built for agents, not browsers.
 - [Tavily](https://tavily.com) - Search API built for agents. Clean results made for retrieval, with a free tier of 1,000 credits a month and no card required.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open source crawler for agents. Turns pages into LLM-ready markdown. Free, Apache-2.0.
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - Python scraping framework, from single requests to full crawls. Free, open source, BSD-3.
+- [Desearch](https://github.com/Desearch-ai/mcp-desearch) - MCP server for AI agents to search the web and X using a Desearch API key. (Author-affiliated.)
